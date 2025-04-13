@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdchwr1s3cywfo5yaul0e.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://w0.peakpx.com/wallpaper/968/822/HD-wallpaper-wave-of-kanagawa-minimal-thumbnail.jpg">
 </picture>
 
 ## Olá, eu sou Israel Efraim
