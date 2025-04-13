@@ -1,4 +1,4 @@
-## 🧑🏻‍🦱 Olá, eu sou Israel Efraim
+## Olá, eu sou Israel Efraim
 
 🏠 Moro na cidade de São Paulo  
 🏫 Estudo na Etec Professor Camargo Aranha  
