@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/israel.efraim/)
 [![E-mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:israell.efraim@gmail.com)
 
-### Habilidades
+<!-- ### Habilidades
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,6 +16,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![OcoMon](https://img.shields.io/badge/OcoMon-000000?style=for-the-badge&logo=ocomon)
 
-
+-->
 ### Estatísticas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=israellefraim&layout=compact&bg_color=000000&border_color=white&title_color=FFFFFF&text_color=FFFFFF)
