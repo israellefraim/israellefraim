@@ -1,6 +1,5 @@
-<img align="right" alt="Computador" height="320" src="computador.png">
-
 # 🧑🏻‍💻 Israel Efraim Silva e Sousa
+<img align="right" alt="Computador" height="320" src="computador.png">
 <p align="justify">Estudante do Curso Técnico de <strong>Desenvolvimento de Sistemas</strong> pela Etec Professor Camargo Aranha e Jovem Aprendiz na <strong>Italac</strong>.</p>
 
 ### Conecte-se comigo
