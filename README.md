@@ -1,16 +1,23 @@
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/originals/f7/c6/f4/f7c6f4a78a2a5ccb3403f08dca7eb082.jpg">
-</picture>
+<img align="right" alt="Computador" height="320" src="computador.png">
 
-## Olá, eu sou Israel Efraim...
+# Israel Efraim Silva e Sousa
+<p align="justify">Estudante do Curso Técnico de <strong>Desenvolvimento de Sistemas</strong> pela Etec Professor Camargo Aranha e Jovem Aprendiz na <strong>Italac</strong>.</p>
 
-🏠 Moro na cidade de São Paulo  
-🏫 Estudo na Etec Professor Camargo Aranha  
-🖥️ Estou no 3º semestre no Curso Técnico em DS  
-🧑🏻‍💻 Estudo Python, Java, PHP e MySQL  
-🥛 Trabalho como Jovem Aprendiz na Italac
+### Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/israellefraim/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/israel.efraim/)
+[![E-mail](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:israell.efraim@gmail.com)
 
-<!---
-israellefraim/israellefraim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Habilidades
+![Java](https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black)
+![Python](https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-FFFFFF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
+![OcoMon](https://img.shields.io/badge/OcoMon-FFFFFF?style=for-the-badge&logo=ocomon)
+
+
+### Estatísticas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=israellefraim&bg_color=fff&border_color=000&title_color=000&text_color=000)
+
