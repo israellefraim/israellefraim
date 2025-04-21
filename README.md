@@ -3,7 +3,7 @@
 # 🧑🏻‍💻 Israel Efraim Silva e Sousa
 <p align="justify">Estudante do Curso Técnico em Desenvolvimento de Sistemas pela ETEC Professor Camargo Aranha e Jovem Aprendiz na <em>Italac</em>.</p>
 
-### Conecte-se comigo
+### Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israellefraim/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/israel.efraim/)
 [![E-mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:israell.efraim@gmail.com)
