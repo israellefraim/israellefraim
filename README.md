@@ -1,7 +1,7 @@
 <img align="right" alt="Computador" height="320" src="computador.png">
 
 # 🧑🏻‍💻 Israel Efraim Silva e Sousa
-<p align="justify">Estudante do Curso Técnico de <strong>Desenvolvimento de Sistemas</strong> pela Etec Professor Camargo Aranha, e Jovem Aprendiz na <strong>Italac</strong>.</p>
+<p align="justify">Estudante do Curso Técnico em Desenvolvimento de Sistemas pela ETEC Professor Camargo Aranha e Jovem Aprendiz na <em>Italac</em>.</p>
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israellefraim/)
