@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Israel Efraim Silva e Sousa
+# Israel Efraim Silva e Sousa
 <img align="right" alt="Computador" height="320" src="computador2.png">
 <p align="justify">Estudante do Curso Técnico em Desenvolvimento de Sistemas pela ETEC Professor Camargo Aranha e Jovem Aprendiz na Italac.</p>
 
