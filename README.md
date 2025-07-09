@@ -17,6 +17,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![OcoMon](https://img.shields.io/badge/OcoMon-000000?style=for-the-badge&logo=ocomon)
 
-### Estatísticas
+<!--### Estatísticas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=israellefraim&layout=compact&bg_color=000000&border_color=white&title_color=FFFFFF&text_color=FFFFFF)
 
